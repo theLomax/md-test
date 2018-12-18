@@ -14,7 +14,7 @@
 `_italic_`<br><br>*or*<br><br>`*italic*` |*italic*
 `~~strike~~`|~~strikethrough~~
 \``code snippet`\`|`code snippet`
-` ```code block``` `<br>*or*<br>` ` ` ` ` ` ` ` `(four spaces) code`<br>`block`|<br>    code<br>    block
+` ```code block``` `<br>*or*<br>` ` ` ` ` ` ` ` `(four spaces) code`<br>`block`|```code```<br>```block```
 `\*`|escape: *
 `>quote`| quote
 `>quote`<br><br>`>>nested quote`|»quote<br>»»nested quote
